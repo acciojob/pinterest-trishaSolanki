@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	flex-direction:row;
+}
+
+.img{
+	width:800px;
+	height:500px;
+	object-fit:cover;
+}
+
+.pit{
+	align-item:center;
+	padding-left:10px;
+}
